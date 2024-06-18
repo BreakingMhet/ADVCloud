@@ -6,7 +6,7 @@ In this scenario, an attacker exploits a misconfigured service principal to perf
 
 ## Requirements
 
-- Application Administraor user;
+- Application Administrator user;
 - Enterprise Application (Service Principal) with Privileged Role Administrator or Global Admin.
 
 ## Reference
